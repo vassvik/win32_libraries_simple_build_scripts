@@ -1,0 +1,1 @@
+# win32_libraries_simple_build_scripts
